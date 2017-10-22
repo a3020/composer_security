@@ -22,7 +22,7 @@ $ ./vendor/bin/concrete5 c5:package-install composer_security
 
 ## Screenshot
 
-![Automated Jobs](https://user-images.githubusercontent.com/1431100/31862003-ffe04346-b736-11e7-8685-067a331458bf.png)
+![Automated Jobs](https://user-images.githubusercontent.com/1431100/31862053-f2c25112-b737-11e7-8731-dbf72948538d.png)
 
 ## More info
 
