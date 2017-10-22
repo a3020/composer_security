@@ -1,5 +1,11 @@
 {
+    "name": "a3020/composer_security",
+    "description": "concrete5 package that checks for vulnerabilities in Composer dependencies.",
+    "type": "concrete5-package",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "require": {
-        "sensiolabs/security-checker": "^4.1"
+        "sensiolabs/security-checker": "^4.1",
+        "concrete5/core": "^8.1"
     }
 }
