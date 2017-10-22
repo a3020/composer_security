@@ -1,0 +1,9 @@
+1.0
+- Approved by PRB.
+
+0.9.1
+- Use Symfony finder to find composer.lock files.
+- Add number of composer.lock files in job message.
+
+0.9.0
+- First submission.
